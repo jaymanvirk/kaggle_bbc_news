@@ -1,4 +1,4 @@
-### BBC News articles classification: Non-negative Matrix Factorization vs Supervised Learning.
+### BBC News articles classification: Non-negative Matrix Factorization vs Supervised Learning
 
 #### Abstract
 This study presents a fraction of an analysis of a BBC News dataset, encompassing Exploratory Data Analysis (EDA) and preprocessing stages, followed by a performance comparison of Non-Negative Matrix Factorization (NMF) against various supervised learning (SL) algorithms. The dataset comprises articles' texts and their categories: business, sport, tech, politics and entartainment.

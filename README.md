@@ -7,5 +7,8 @@ The results of this study showed that SL algorithms such as SVM and Random Fores
 
 Additionally the NMF provided surprising results, when on every sample size, 50%, 20% and 10% of the train dataset, it got test scores on par with the train scores. SVM and RF models while resulting in higher accuracy than NMF across sample sizes, got more prominent overfitting problem with the data size reduction.
 
+## Notebook
+[bbc_news_classification_nmf_vs_sl.ipynb](bbc_news_classification_nmf_vs_sl.ipynb)
+
 ## License
 This project is licensed under the MIT License.
